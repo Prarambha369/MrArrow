@@ -36,6 +36,7 @@ def game_over():
 
 # Draw the player
 def draw_player():
+
     pygame.draw.rect(window, GREEN, (player_pos[0], player_pos[1], player_size, player_size))
 
 # Draw the target
