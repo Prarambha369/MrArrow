@@ -1,0 +1,3 @@
+# pygame-ce is a drop-in replacement for pygame (still "import pygame").
+# Plain pygame 2.6 has no working font module on Python 3.14.
+pygame-ce>=2.5
